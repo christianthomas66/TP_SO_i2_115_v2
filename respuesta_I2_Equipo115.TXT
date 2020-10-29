@@ -1,0 +1,5 @@
+apellido: Suárez Grecco
+Nombre: Christian Thomás
+
+a) hicimos el git add upstream <link del respositorio de Beta>. , despues hicimos git fetch upstream para asegurarnos de que esten los archivos en forma remota
+b) Si, se puede
